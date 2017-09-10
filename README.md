@@ -10,5 +10,11 @@
 Using the latest version of Xcode, create an app that has one button. When the button is pressed, the current temperature in Houston Texas is shown in a text field. By current temperature, we mean the temperature when we run your app.
 
 # Your comments or assumptions
-- <add them here>
+
+-- Constrains are not fully functional in all IOs devices
+-- App is designed to run in iphone 7 or iphone 6, which will display the best design
+
+Weather information obatined from https://openweathermap.org/ API
+
+
 
